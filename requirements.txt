@@ -4,4 +4,5 @@ Pandas
 Pickle
 Numpy
 matplotlib
-Seabornc
+Seaborn
+# install normally
